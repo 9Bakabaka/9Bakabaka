@@ -2,4 +2,3 @@
 - Normal Chinese student
 - Like java python and golang
 - Nothing special(lol)
-- My qq num:3195183343
