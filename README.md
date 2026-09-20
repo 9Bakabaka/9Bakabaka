@@ -1,6 +1,6 @@
 ## Whoami
 
-Hi, I'm Bakabaka_9 (Xingrui Li) From China!
+Hi, I'm Bakabaka_9 From China!
 
 ## About Me
 
